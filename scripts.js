@@ -57,32 +57,32 @@ const music = {
 // ===================================================
 // Place the answer variables in console logs as an answer to the question.
 
-// What is the first genre in the Music object?
-console.log("What is the first genre in the Music object? ");
+// Log the first genre in the Music object?
+console.log("Log the first genre in the Music object? ");
 
-// Which artist is listed third under the genre "Jazz"?
-console.log("Which artist is listed third under the genre 'Jazz'?");
+// Log the artist listed third under the genre 'Jazz'?
+console.log("Log the artist listed third under the genre 'Jazz'? ");
 
-// What albums are associated with the artist "Queen" in the "Rock" genre?
-console.log("What albums are associated with the artist 'Queen' in the 'Rock' genre?");
+// Log the albums array associated with the artist 'Queen' in the 'Rock' genre?
+console.log("Log the albums array associated with the artist 'Queen' in the 'Rock' genre? ");
 
-// Name one album from "Miles Davis" in the "Jazz" genre.
-console.log("Name one album from 'Miles Davis' in the 'Jazz' genre.");
+// Log one album from 'Miles Davis' in the 'Jazz' genre.
+console.log("Log one album from 'Miles Davis' in the 'Jazz' genre. ");
 
-// How many genres are there in the Music object?
-console.log("How many genres are there in the Music object?");
+// Log how many genres there are in the Music object?
+console.log("Log how many genres there are in the Music object?");
 
-// List all the albums by "Led Zeppelin" in the "Rock" genre.
-console.log("List all the albums by 'Led Zeppelin' in the 'Rock' genre.");
+// Log the array of albums by 'Led Zeppelin' in the 'Rock' genre.
+console.log("Log the array of albums by 'Led Zeppelin' in the 'Rock' genre. ");
 
-// Who is the first artist listed under the genre "Pop"?
-console.log("Who is the first artist listed under the genre 'Pop'?");
+// Log the first artist listed under the genre 'Pop'?
+console.log("Log the first artist listed under the genre 'Pop'? ");
 
-// Provide the name of an album from "John Coltrane" in the "Jazz" genre.
-console.log("Provide the name of an album from 'John Coltrane' in the 'Jazz' genre.");
+// Log the name of an album from 'John Coltrane' in the 'Jazz' genre.
+console.log("Log the name of an album from 'John Coltrane' in the 'Jazz' genre. ");
 
-// How many artists are there in the "Rock" genre?
-console.log("How many artists are there in the 'Rock' genre?");
+// Log how many artists there are in the 'Rock' genre?
+console.log("Log how many artists there are in the 'Rock' genre? ");
 
-// Mention two albums by "Michael Jackson" in the "Pop" genre.
-console.log("Mention two albums by 'Michael Jackson' in the 'Pop' genre.");
+// Log two albums by 'Michael Jackson' in the 'Pop' genre.
+console.log("Log two albums by 'Michael Jackson' in the 'Pop' genre. ");
