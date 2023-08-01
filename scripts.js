@@ -56,7 +56,7 @@ const musicGenres = {
 // Place the answer variables in console logs as an answer to the question.
 
 // Hint: You can access objects with square bracket notation and dot notation. 
-//       Don't forget that certain symbols and numbers in key names can't be accessed with dot notation and will need bracket notation instead. 
+//       Don't forget that certain symbols and numbers in key names can't be accessed with dot notation and will need bracket notation with strings instead. 
 
 // Log the first genre in the music genre object:
 console.log("Log the first genre in the music genre object: ");
