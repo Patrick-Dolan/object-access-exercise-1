@@ -1,4 +1,5 @@
 // Object to Access
+// - This music object was auto generated.
 const musicGenres = {
   "rock": {
     "artists": {
@@ -57,42 +58,42 @@ const musicGenres = {
 // Hint: You can access objects with square bracket notation and dot notation. 
 //       Don't forget that certain symbols and numbers in key names can't be accessed with dot notation and will need bracket notation instead. 
 
-// Log the first genre object in the music genre object?
-console.log("Log the first genre object in the music genre object? ");
+// Log the first genre in the music genre object:
+console.log("Log the first genre in the music genre object: ");
 console.log(); // <-- Answer here
 
-// Log the artists name listed second under the genre 'Rock'?
-console.log("Log the artists name listed second under the genre 'Rock'? ");
+// Log the artists name listed second under the genre 'Rock':
+console.log("Log the artists name listed second under the genre 'Rock': ");
 console.log(); // <-- Answer here
 
-// Log the album-names array associated with the artist 'Queen' in the 'Rock' genre?
-console.log("Log the album-names array associated with the artist 'Queen' in the 'Rock' genre? ");
+// Log the album-names array associated with the artist 'Queen' in the 'Rock' genre:
+console.log("Log the album-names array associated with the artist 'Queen' in the 'Rock' genre: ");
 console.log(); // <-- Answer here
 
-// Log the artist listed third under the genre 'Jazz'?
-console.log("Log the artists name listed third under the genre 'Jazz'? ");
+// Log the artist listed third under the genre 'Jazz':
+console.log("Log the artists name listed third under the genre 'Jazz': ");
 console.log(); // <-- Answer here
 
-// Log one album from 'Miles Davis' in the 'Jazz' genre.
-console.log("Log one album from 'Miles Davis' in the 'Jazz' genre. ");
+// Log one album from 'Miles Davis' in the 'Jazz' genre:
+console.log("Log one album from 'Miles Davis' in the 'Jazz' genre: ");
 console.log(); // <-- Answer here
 
-// Log the array of album-names by 'Led Zeppelin' in the 'Rock' genre.
-console.log("Log the array of album-names by 'Led Zeppelin' in the 'Rock' genre. ");
+// Log the array of album-names by 'Led Zeppelin' in the 'Rock' genre:
+console.log("Log the array of album-names by 'Led Zeppelin' in the 'Rock' genre: ");
 console.log(); // <-- Answer here
 
-// Log the first artist listed under the genre 'Pop'?
-console.log("Log the first artist listed under the genre 'Pop'? ");
+// Log the first artist listed under the genre 'Pop':
+console.log("Log the first artist listed under the genre 'Pop': ");
 console.log(); // <-- Answer here
 
-// Log the name of an album from 'John Coltrane' in the 'Jazz' genre.
-console.log("Log the name of an album from 'John Coltrane' in the 'Jazz' genre. ");
+// Log the name of an album from 'John Coltrane' in the 'Jazz' genre:
+console.log("Log the name of an album from 'John Coltrane' in the 'Jazz' genre: ");
 console.log(); // <-- Answer here
 
-// Log how many artists there are in the 'Rock' genre?
-console.log("Log how many albums there are in 'The Beatles' albums array? ");
+// Log how many artists there are in the 'Rock' genre:
+console.log("Log how many albums there are in 'The Beatles' albums array: ");
 console.log(); // <-- Answer here
 
-// Log two album-names by 'Michael Jackson' in the 'Pop' genre.
-console.log("Log two album-names by 'Michael Jackson' in the 'Pop' genre. ");
+// Log two album-names by 'Michael Jackson' in the 'Pop' genre:
+console.log("Log two album-names by 'Michael Jackson' in the 'Pop' genre: ");
 console.log(); // <-- Answer here
