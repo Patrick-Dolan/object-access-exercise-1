@@ -59,30 +59,40 @@ const music = {
 
 // Log the first genre in the Music object?
 console.log("Log the first genre in the Music object? ");
+console.log(); // <-- Answer here
 
 // Log the artist listed third under the genre 'Jazz'?
 console.log("Log the artist listed third under the genre 'Jazz'? ");
+console.log(); // <-- Answer here
 
 // Log the albums array associated with the artist 'Queen' in the 'Rock' genre?
 console.log("Log the albums array associated with the artist 'Queen' in the 'Rock' genre? ");
+console.log(); // <-- Answer here
 
 // Log one album from 'Miles Davis' in the 'Jazz' genre.
 console.log("Log one album from 'Miles Davis' in the 'Jazz' genre. ");
+console.log(); // <-- Answer here
 
 // Log how many genres there are in the Music object?
 console.log("Log how many genres there are in the Music object?");
+console.log(); // <-- Answer here
 
 // Log the array of albums by 'Led Zeppelin' in the 'Rock' genre.
 console.log("Log the array of albums by 'Led Zeppelin' in the 'Rock' genre. ");
+console.log(); // <-- Answer here
 
 // Log the first artist listed under the genre 'Pop'?
 console.log("Log the first artist listed under the genre 'Pop'? ");
+console.log(); // <-- Answer here
 
 // Log the name of an album from 'John Coltrane' in the 'Jazz' genre.
 console.log("Log the name of an album from 'John Coltrane' in the 'Jazz' genre. ");
+console.log(); // <-- Answer here
 
 // Log how many artists there are in the 'Rock' genre?
 console.log("Log how many artists there are in the 'Rock' genre? ");
+console.log(); // <-- Answer here
 
 // Log two albums by 'Michael Jackson' in the 'Pop' genre.
 console.log("Log two albums by 'Michael Jackson' in the 'Pop' genre. ");
+console.log(); // <-- Answer here
