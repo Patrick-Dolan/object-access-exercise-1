@@ -57,16 +57,20 @@ const musicGenres = {
 // Hint: You can access objects with square bracket notation and dot notation. 
 //       Don't forget that certain symbols and numbers in key names can't be accessed with dot notation and will need bracket notation instead. 
 
-// Log the first genre in the Music object?
-console.log("Log the first genre object in the Music object? ");
+// Log the first genre object in the music genre object?
+console.log("Log the first genre object in the music genre object? ");
 console.log(); // <-- Answer here
 
-// Log the artist listed third under the genre 'Jazz'?
-console.log("Log the artists name listed third under the genre 'Jazz'? ");
+// Log the artists name listed second under the genre 'Rock'?
+console.log("Log the artists name listed second under the genre 'Rock'? ");
 console.log(); // <-- Answer here
 
 // Log the album-names array associated with the artist 'Queen' in the 'Rock' genre?
 console.log("Log the album-names array associated with the artist 'Queen' in the 'Rock' genre? ");
+console.log(); // <-- Answer here
+
+// Log the artist listed third under the genre 'Jazz'?
+console.log("Log the artists name listed third under the genre 'Jazz'? ");
 console.log(); // <-- Answer here
 
 // Log one album from 'Miles Davis' in the 'Jazz' genre.
